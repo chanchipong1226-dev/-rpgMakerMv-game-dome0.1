@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"Kevin","characterIndex":0,"characterName":"Kevin","classId":1,"equips":[1,1,2,3,4],"faceIndex":0,"faceName":"Kevin","traits":[{"code":43,"dataId":11,"value":1}],"initialLevel":5,"maxLevel":80,"name":"Kevin","nickname":"","note":"","profile":"梦想成为英雄的普通村庄男孩"},
+{"id":2,"battlerName":"Eiile","characterIndex":0,"characterName":"Ellie","classId":3,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"Ellie","traits":[{"code":43,"dataId":12,"value":1},{"code":43,"dataId":10,"value":1},{"code":43,"dataId":8,"value":1},{"code":43,"dataId":9,"value":1}],"initialLevel":5,"maxLevel":99,"name":"Ellie","nickname":"","note":"","profile":"赛西利亚村村长之女，与Kevin是青梅竹马"},
+{"id":3,"battlerName":"Caesar","characterIndex":0,"characterName":"Caesar","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Caesar","traits":[{"code":43,"dataId":24,"value":1}],"initialLevel":99,"maxLevel":99,"name":"Emperor-Caesar","nickname":"","note":"","profile":"凯撒帝国的建立者，拥有击杀神明的力量。"}
+]
